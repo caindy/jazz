@@ -4,7 +4,7 @@ defmodule Jazz.Mixfile do
   def project do
     [ app: :jazz,
       version: "0.0.3",
-      elixir: "~> 0.12.3-dev",
+      elixir: "~> 0.12.2",
       deps: deps ]
   end
 
