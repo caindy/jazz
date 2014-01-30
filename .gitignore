@@ -5,3 +5,4 @@ erl_crash.dump
 update_db.sh
 copycat
 src/*.erl
+/_build
